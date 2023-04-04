@@ -18,3 +18,9 @@
   blog:https://zhuanlan.zhihu.com/p/410005031  
   paper:https://doi.org/10.1145/3308558.3313552  
   code:https://github.com/dhruvkhattar/MVAE
+
+- Latent Alignment and Variational Attention  
+  harford  
+  blog:https://blog.csdn.net/lrt366/article/details/90589636  
+  paper:https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1807.03756v1  
+  code:https://link.zhihu.com/?target=https%3A//github.com/harvardnlp/var-attn
