@@ -24,3 +24,5 @@
   blog:https://blog.csdn.net/lrt366/article/details/90589636  
   paper:https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1807.03756v1  
   code:https://link.zhihu.com/?target=https%3A//github.com/harvardnlp/var-attn
+
+- [1]郑欣悦,黄永辉.基于VAE和注意力机制的小样本图像分类方法[J].计算机应用与软件,2019,36(10):168-174.  
