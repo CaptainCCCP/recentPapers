@@ -30,3 +30,7 @@
 - Few Shot Medical Image Segmentation with Cross Attention Transformer  
   PDF: https://arxiv.org/pdf/2303.13867  
   Code: coming soon...  
+  
+- Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training  
+  无监督图像配准  
+  https://arxiv.org/abs/2303.00874  
