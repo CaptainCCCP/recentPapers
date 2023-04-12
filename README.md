@@ -26,3 +26,7 @@
   code:https://link.zhihu.com/?target=https%3A//github.com/harvardnlp/var-attn
 
 - [1]郑欣悦,黄永辉.基于VAE和注意力机制的小样本图像分类方法[J].计算机应用与软件,2019,36(10):168-174.  
+
+- Few Shot Medical Image Segmentation with Cross Attention Transformer  
+  PDF: https://arxiv.org/pdf/2303.13867  
+  Code: coming soon...  
