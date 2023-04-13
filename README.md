@@ -34,3 +34,12 @@
 - Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training  
   无监督图像配准  
   https://arxiv.org/abs/2303.00874  
+  
+- An Image Is Worth 16x16 Words: Transformers For Image Recognition At Scale  
+  论文下载链接：https://arxiv.org/abs/2010.11929  
+  原论文对应源码：https://github.com/google-research/vision_transformer  
+
+  Pytorch实现代码： pytorch_classification/vision_transformer  
+  Tensorflow2实现代码：tensorflow_classification/vision_transformer  
+  在bilibili上的视频讲解：https://www.bilibili.com/video/BV1Jh411Y7WQ  
+  
