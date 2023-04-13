@@ -43,3 +43,6 @@
   Tensorflow2实现代码：tensorflow_classification/vision_transformer  
   在bilibili上的视频讲解：https://www.bilibili.com/video/BV1Jh411Y7WQ  
   
+- Taming Transformers for High-Resolution Image Synthesis(VQ-GAN)
+  paper:https://openaccess.thecvf.com/content/CVPR2021/html/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.html
+  code：https://github.com/CompVis/tami
