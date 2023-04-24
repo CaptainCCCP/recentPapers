@@ -7,6 +7,12 @@
   paper:  
   code:  
   
+- Latent generative landscapes as maps of functional diversity in protein sequence space  
+  nature communications  
+  blog:  
+  paper:https://www.nature.com/articles/s41467-023-37958-z  
+  code:  
+  
 ### Generative Model
 - Gromov-Wasserstein AutoEncoders  
   ICLR2023  
